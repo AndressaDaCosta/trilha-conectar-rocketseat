@@ -129,3 +129,4 @@ Ferramentas de gerenciamento -> TArefas (task manager, activity) e Pacotes (choc
 </details>
 
 <img src="https://github.com/AndressaDaCosta/trilha-conectar-rocketseat/blob/main/discover-conectar-certificate.pdf">
+
