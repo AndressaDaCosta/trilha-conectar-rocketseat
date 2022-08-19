@@ -2,6 +2,7 @@
 
 Por [Andressa Da Costa](https://github.com/AndressaDaCosta)
 
+
 Arquivos das trilhas Conectar do Discover | Rocketseat
 
 ### Aula 1° - Introd. Fundamentos
@@ -125,8 +126,11 @@ Ferramentas de gerenciamento -> TArefas (task manager, activity) e Pacotes (choc
   
  ***Sintaxe***
   -> Lembrando que a sintaxe são as regras da linguagem utilizada. A ling. de programação utiliza simbolos () e palavras reservadas como: if,else,for,var, let.
+ 
+ 
 
 </details>
 
-<img src="https://github.com/AndressaDaCosta/trilha-conectar-rocketseat/blob/main/discover-conectar-certificate.pdf">
+  <img src="https://github.com/AndressaDaCosta/trilha-conectar-rocketseat/blob/main/certificate%20conectar.png?raw=true">
+
 
