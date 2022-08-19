@@ -127,3 +127,5 @@ Ferramentas de gerenciamento -> TArefas (task manager, activity) e Pacotes (choc
   -> Lembrando que a sintaxe são as regras da linguagem utilizada. A ling. de programação utiliza simbolos () e palavras reservadas como: if,else,for,var, let.
 
 </details>
+
+<img src="https://github.com/AndressaDaCosta/trilha-conectar-rocketseat/blob/main/discover-conectar-certificate.pdf">
